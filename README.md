@@ -1,5 +1,5 @@
 # INBClusterUpdate
-Documentacion de proyecto prueba para la implementacion de gluster fs en un cluster.
+Documentacion de proyecto prueba para la implementacion de gluster fs en un cluster. y el NIS con esclavos
 
 ## Virtual machines
 
