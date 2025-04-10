@@ -1,4 +1,4 @@
-# GlusterFs---Neurobiolog-a
+# INBClusterUpdate
 Documentacion de proyecto prueba para la implementacion de gluster fs en un cluster.
 
 ## Virtual machines
